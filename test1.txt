@@ -1,0 +1,7 @@
+10000
+    5	the
+    10	of
+    2	and
+    2	that
+    20	offer
+    2	oak
